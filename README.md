@@ -1,2 +1,2 @@
 # Static-Website
-Websites doing with HTML5 and CSS3
+Websites do with HTML5 and CSS3.
